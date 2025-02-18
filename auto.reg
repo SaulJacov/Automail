@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Profiles\Soporte5]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Profiles\Soporte5\9375CFF0413111d3B88A00104B2A6676]
+"Account Name"="soporte5@soluciona.com.mx"
+"Email"="soporte5@soluciona.com.mx"
+"POP3 Server"="mail.soluciona.com.mx"
+"POP3 Port"=dword:0000006e  ; 110 en decimal
+"SMTP Server"="mail.soluciona.com.mx"
+"SMTP Port"=dword:0000024b  ; 587 en decimal
+"POP3 Use SSL"=dword:00000000
+"SMTP Use SSL"=dword:00000001
+"SMTP Auth"=dword:00000001
+"Reply Email"="soporte5@soluciona.com.mx"
