@@ -1,0 +1,29 @@
+[General]
+Custom=1
+ProfileName=NombreDelPerfil
+OverwriteProfile=Yes
+DefaultProfile=Yes
+
+[Service List]
+; Servicio de correo electrónico
+Service1=Microsoft Outlook Client
+
+[Service1]
+; Configuración del servicio de correo
+MailboxName=Nombre del buzón
+AccountName=Nombre de la cuenta
+POP3Server=pop.tudominio.com
+POP3UserName=tu_correo@tudominio.com
+POP3UseSPA=0
+SMTPServer=smtp.tudominio.com
+SMTPUseAuth=1
+SMTPAuthMethod=1
+SMTPUserName=tu_correo@tudominio.com
+ConnectionType=0
+LeaveOnServer=1
+DeliveryLocation=0
+ReplyEmailAddress=tu_correo@tudominio.com
+EmailAddress=tu_correo@tudominio.com
+DisplayName=Tu Nombre
+Organization=Tu Organización
+ReplyEmailAddress=tu_correo@tudominio.com

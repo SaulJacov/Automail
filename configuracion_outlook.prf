@@ -1,0 +1,24 @@
+[General]
+Custom=1
+ProfileName=PerfilCorreo
+OverwriteProfile=Yes
+
+[Service1]
+UniqueService=No
+AccountName=PerfilCorreo
+EmailAddress=soporte5@soluciona.com.mx
+POP3Server=mail.soluciona.com.mx
+POP3UserName=soporte5@soluciona.com.mx
+POP3UseSPA=0
+POP3Port=110
+POP3UseSSL=0
+SMTPServer=mail.soluciona.com.mx
+SMTPUseAuth=1
+SMTPAuthUserName=soporte5@soluciona.com.mx
+SMTPUseSPA=0
+SMTPPort=587
+SMTPUseSSL=0
+SMTPUseTLS=0
+EOF
+
+echo "Archivo configuracion_outlook.prf creado exitosamente."
